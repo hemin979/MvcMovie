@@ -68,7 +68,7 @@ Database has been updated..
 Update the Movie class to take advantage of the built-in validation attributes Required, StringLength, RegularExpression, Range and the DataType
 disabled JavaScript in the Chrome browser
 
-====> PART 9: 10, Examine the Details and Delete Methods of an ASP.NET Core App <====
+====> PART 10: Examine the Details and Delete Methods of an ASP.NET Core App <====
 2024-02-08 13:20
 Examined the Details method.
 Examine the Delete and DeleteConfirmed methods
